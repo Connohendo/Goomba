@@ -1,0 +1,15 @@
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\bin\Debug\net6.0\GoombaNew.exe
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\bin\Debug\net6.0\GoombaNew.deps.json
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\bin\Debug\net6.0\GoombaNew.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\bin\Debug\net6.0\GoombaNew.dll
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\bin\Debug\net6.0\GoombaNew.pdb
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.dll
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\refint\GoombaNew.dll
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.pdb
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\GoombaNew.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\Programming_Projects\GoombaNew\obj\Debug\net6.0\ref\GoombaNew.dll
